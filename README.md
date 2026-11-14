@@ -116,11 +116,9 @@ The objective is to transform raw loan data into meaningful information that can
 ```text
 banking-credit-risk-analysis/
 ├── README.md
-├── data/
 ├── sql/
 ├── tableau/
 ├── documentation/
-└── .gitignore
 ```
 
 ## Author
