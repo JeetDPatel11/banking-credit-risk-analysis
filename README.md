@@ -57,9 +57,9 @@ Important fields include:
 
 ## Tableau Dashboard
 
-**View Interactive Dashboard:** [Banking Credit Risk Analysis – Tableau Public]((https://public.tableau.com/views/bank_credit_risk_analysis_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/bank_credit_risk_analysis_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-The interactive dashboard presents loan portfolio performance, borrower characteristics, loan distribution and default risk analysis.
+The interactive dashboard provides insights into loan portfolio performance, borrower characteristics, loan distribution and default risk analysis.
 
 ## Key Performance Indicators (KPIs)
 
