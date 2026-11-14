@@ -42,8 +42,6 @@ Important fields include:
 - Interest Rate
 - Default Flag
 
-*Dataset source and licensing details will be added here.*
-
 ## Project Workflow
 
 1. Dataset import and initial exploration.
@@ -54,8 +52,14 @@ Important fields include:
 6. Development of the Banking Credit Risk Analysis Dashboard.
 7. Business insights and recommendations.
 
-## Dashboard Preview
+## Tableau Dashboard Preview
 <img width="1136" height="673" alt="Screenshot 2026-11-14 at 5 17 13 PM" src="https://github.com/user-attachments/assets/adc92e93-0b87-45d6-aa32-50a098d639f7" />
+
+## Tableau Dashboard
+
+**View Interactive Dashboard:** [Banking Credit Risk Analysis – Tableau Public]((https://public.tableau.com/views/bank_credit_risk_analysis_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+The interactive dashboard presents loan portfolio performance, borrower characteristics, loan distribution and default risk analysis.
 
 ## Key Performance Indicators (KPIs)
 
