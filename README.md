@@ -69,11 +69,69 @@ Important fields include:
 
 ## Business Insights
 
-Business insights will be documented after completing the validation and interpretation of all analytical findings.
+Based on the analysis of 134,813 loan records, the following key business insights were identified:
+
+1. **Overall Default Rate:** The portfolio has an overall default rate of 19.91%, with 26,845 loans charged off out of 134,813 applications.
+
+2. **Credit Grade Risk:** Default rates increase from 5.83% for Grade A to 50.39% for Grade G, highlighting significant differences in credit risk across loan grades.
+
+3. **Loan Term Analysis:** 60-month loans have a default rate of 32.34%, compared with 15.95% for 36-month loans.
+
+4. **Loan Purpose Risk:** Small Business loans have the highest default rate at 28.93%, while Debt Consolidation represents the largest application segment with 78,416 loans.
+
+5. **Borrower Creditworthiness:** Higher FICO score groups generally have lower default rates, while borrowers with higher debt-to-income ratios show greater default risk.
+
+6. **Portfolio Concentration:** Debt Consolidation and Credit Card loans together account for approximately 83.8% of the total loan amount, indicating significant concentration in these two purposes.
+
+## Business Insights
+
+Based on the analysis of 134,813 loan records, the following key business insights were identified:
+
+1. **Overall Default Rate:** The portfolio has an overall default rate of 19.91%, with 26,845 loans charged off out of 134,813 applications.
+
+2. **Credit Grade Risk:** Default rates increase from 5.83% for Grade A to 50.39% for Grade G, highlighting significant differences in credit risk across loan grades.
+
+3. **Loan Term Analysis:** 60-month loans have a default rate of 32.34%, compared with 15.95% for 36-month loans.
+
+4. **Loan Purpose Risk:** Small Business loans have the highest default rate at 28.93%, while Debt Consolidation represents the largest application segment with 78,416 loans.
+
+5. **Borrower Creditworthiness:** Higher FICO score groups generally have lower default rates, while borrowers with higher debt-to-income ratios show greater default risk.
+
+6. **Portfolio Concentration:** Debt Consolidation and Credit Card loans together account for approximately 83.8% of the total loan amount, indicating significant concentration in these two purposes.
 
 ## Business Recommendations
 
-Recommendations will be developed based on observed loan default patterns, credit grade performance, and borrower characteristics.
+Based on the identified patterns, the following recommendations could help improve credit-risk management:
+
+1. **Strengthen Credit Assessment:** Apply more detailed borrower assessments for higher-risk loan grades, particularly Grades E, F and G.
+
+2. **Monitor Longer-Term Loans:** Pay closer attention to 60-month loans due to their considerably higher observed default rate.
+
+3. **Evaluate Borrower Affordability:** Consider FICO scores, debt-to-income ratios, income stability and existing liabilities when assessing repayment capacity.
+
+4. **Review High-Risk Loan Purposes:** Strengthen assessment and monitoring of Small Business loans while considering their relatively low application volume.
+
+5. **Manage Portfolio Concentration:** Regularly monitor Debt Consolidation and Credit Card segments because they represent the majority of total lending exposure.
+
+6. **Improve Data Quality:** Ensure complete and accurate borrower information, particularly employment details, to support more reliable credit-risk assessments.
+
+*Note: These findings represent historical patterns and associations in the analysed dataset. They do not establish causation or represent a predictive credit-scoring model.*
+
+## Business Recommendations
+
+Based on the identified patterns, the following recommendations could help improve credit-risk management:
+
+1. **Strengthen Credit Assessment:** Apply more detailed borrower assessments for higher-risk loan grades, particularly Grades E, F and G.
+
+2. **Monitor Longer-Term Loans:** Pay closer attention to 60-month loans due to their considerably higher observed default rate.
+
+3. **Evaluate Borrower Affordability:** Consider FICO scores, debt-to-income ratios, income stability and existing liabilities when assessing repayment capacity.
+
+4. **Review High-Risk Loan Purposes:** Strengthen assessment and monitoring of Small Business loans while considering their relatively low application volume.
+
+5. **Manage Portfolio Concentration:** Regularly monitor Debt Consolidation and Credit Card segments because they represent the majority of total lending exposure.
+
+6. **Improve Data Quality:** Ensure complete and accurate borrower information, particularly employment details, to support more reliable credit-risk assessments.
 
 ## Conclusion
 
